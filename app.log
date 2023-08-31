@@ -1,0 +1,51 @@
+2023-08-31 03:22:43,733 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:22:43,789 - logs - ERROR - No file part
+2023-08-31 03:25:30,572 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:25:30,576 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:25:30,579 - logs - INFO - Random Array Executed
+2023-08-31 03:26:01,174 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:26:01,180 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:26:01,180 - logs - INFO - Random Array Executed
+2023-08-31 03:31:44,474 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:31:44,478 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:31:44,478 - logs - INFO - Random Array Executed
+2023-08-31 03:33:16,530 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:33:16,536 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:33:16,536 - logs - ERROR - Input should be in Sentence
+2023-08-31 03:33:16,537 - logs - ERROR - Error has been occurred
+2023-08-31 03:33:16,537 - logs - ERROR - Error has been occurred
+2023-08-31 03:34:23,465 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:34:23,474 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:34:23,475 - logs - ERROR - Input should be in Sentence
+2023-08-31 03:34:23,475 - logs - ERROR - Error has been occurred
+2023-08-31 03:34:23,475 - logs - ERROR - Error has been occurred
+2023-08-31 03:34:43,007 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:34:43,013 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:34:43,013 - logs - ERROR - Input should be in Sentence
+2023-08-31 03:34:43,013 - logs - ERROR - Error has been occurred
+2023-08-31 03:34:43,013 - logs - ERROR - Error has been occurred
+2023-08-31 03:35:47,170 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:35:47,179 - logs - ERROR - No input provided
+2023-08-31 03:36:06,518 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:36:06,524 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:36:06,524 - logs - ERROR - Input should be in Sentence
+2023-08-31 03:36:06,524 - logs - ERROR - Error has been occurred
+2023-08-31 03:36:06,524 - logs - ERROR - Error has been occurred
+2023-08-31 03:36:49,150 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:36:49,183 - logs - ERROR - No text part
+2023-08-31 03:38:26,848 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:38:26,852 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:38:26,853 - logs - ERROR - Input should be in Sentence
+2023-08-31 03:38:26,853 - logs - ERROR - Error has been occurred
+2023-08-31 03:38:26,853 - logs - ERROR - Error has been occurred
+2023-08-31 03:38:55,545 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:38:55,554 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:38:55,554 - logs - ERROR - Input should be only in Alphabets
+2023-08-31 03:38:55,554 - logs - ERROR - Error has been occurred
+2023-08-31 03:38:55,555 - logs - ERROR - Error has been occurred
+2023-08-31 03:40:10,640 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:40:10,644 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:40:10,645 - logs - INFO - Random Array Executed
+2023-08-31 03:40:21,522 - logs - INFO - Handle incoming requests to provide appropriate responses
+2023-08-31 03:40:21,526 - logs - DEBUG - Generating a random Numpy array of shape (500,) based on a given sentence
+2023-08-31 03:40:21,527 - logs - INFO - Random Array Executed
